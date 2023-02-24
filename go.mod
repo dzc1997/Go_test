@@ -1,4 +1,4 @@
-module github.com/Moonlight-Zhao/go-project-example
+module github.com/dzc1997/Go_test
 
 go 1.16
 

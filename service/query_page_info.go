@@ -2,7 +2,7 @@ package service
 
 import (
 	"errors"
-	"github.com/Moonlight-Zhao/go-project-example/repository"
+	"github.com/dzc1997/Go_test/repository"
 	"sync"
 )
 
